@@ -1,5 +1,5 @@
-# Sanket : Autism detection web app
-<h3> Sanket is a webapp for the early detection of autism spectrum disorder and counseling.
+#  Autism detection web app
+<h3> It is a webapp for the early detection of autism spectrum disorder and counseling.
 </h3>
 
 <h2>Do you know what autism really is?</h2>
@@ -60,11 +60,3 @@ As you know, we have to classify the images of children by facial features.
 - The script defines two ImageDataGenerator objects and 'flow_from_directory' method is used to load the data into the model.</br>
 
 - The CNN model is built using the Sequential model object. This demonstrates how to build a CNN model for binary image classification using Keras.</br></h3>
-***Output of three images:
-
-![aaaaa](https://user-images.githubusercontent.com/86253756/236650140-a90b6ffa-ff78-4f85-9335-d4748899abb0.png)
-
-![aaa](https://user-images.githubusercontent.com/86253756/236650172-5ae2a76b-429e-4804-8ba4-fead0481215a.png)
-
-![aaaaa](https://user-images.githubusercontent.com/86253756/236650180-253b0c8f-aad1-4d0a-bd6a-167d3008ba3c.png)
-
